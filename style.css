@@ -1,0 +1,42 @@
+@font-face {
+    font-family: calculator;
+    src: url('font/Digital7-rg1mL.ttf');
+}
+
+#show {
+    font-family: calculator;
+    font-size: 2em;
+    max-width: 78%;
+}
+
+#op {
+    font-family: calculator;
+    font-size: 25px;
+}
+
+#time {
+    font-family: calculator;
+    font-size: 15px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5em;
+    background-color: rgb(238, 238, 238);
+}
+
+.button {
+    font-size: 0.9em;
+    height: 50px;
+    padding: 0px 10px;
+}
+
+.button-group {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+}
+
+i {
+    font-size: 17px;
+}
