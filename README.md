@@ -24,4 +24,4 @@ Untuk menjalankan proyek ini di lokal Anda, ikuti langkah-langkah berikut:
    Jalankan file index.html di browser Anda dengan mengklik dua kali atau gunakan live server jika menggunakan editor kode.
    
 ## Image
-![image](assets/image/image.png)
+![image](assets/image.png)
